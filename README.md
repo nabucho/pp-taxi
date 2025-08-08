@@ -36,10 +36,13 @@ Solution introduces following views in the Priority Pass application:
 5. (v2) Ride tracking
 6. (v2) Payment in PP App, or from stored card-on-file in Priority Pass
 
-[Full use-case Mockup](https://balsamiq.cloud/sa14bnr/pabg16u)
+[Full use-case Interactive Mockup](https://balsamiq.cloud/sa14bnr/pabg16u/r5D9B?f=N4IgUiBcCMA0IDkoAZ4GEXwDKZAIVwC1cBpKAbQF0BfIA===)
 
 ## Architecture Overview and System Design
 ### C4 diagram
+
+[Interactive System Context](https://nabucho.github.io/pp-taxi/diagrams/)
+
 
 ### Architectura decisions
 
